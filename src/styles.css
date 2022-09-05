@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+}
+
+div,
+h1,
+ul {
+  text-align: left;
+}
+
+body {
+  background-color: rgba(128, 128, 128, 0.205);
+}
+
+img {
+  border: 1px solid black;
+}
+
+.item:hover {
+  background-color: pink;
+}
